@@ -2,7 +2,7 @@ import random
 import heapq
 from collections import deque
 import tkinter as tk
-from tkinter import ttk  # For themed widgets (optional, looks nicer)
+from tkinter import ttk  # For themed widgets (optional, looks nicer) pip install -r requirements.txt
 from tkinter import messagebox
 import math # Needed for isnan check
 
